@@ -8,7 +8,6 @@ django = "*"
 djongo = "*"
 django-neomodel = "*"
 gunicorn = "*"
-cookiecutter = "*"
 
 [dev-packages]
 black = "*"
